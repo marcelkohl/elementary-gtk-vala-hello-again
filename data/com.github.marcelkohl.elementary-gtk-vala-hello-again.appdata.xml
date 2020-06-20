@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2019 Marcel Kohls -->
+<component type="desktop">
+  <id>com.github.marcelkohl.elementary-gtk-vala-hello-again</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Hello World Again</name>
+  <summary>Again another hello world</summary>
+  <description>
+    <p>Hello world made again with data info, icon and some other fancy stuff.</p>
+  </description>
+</component>
